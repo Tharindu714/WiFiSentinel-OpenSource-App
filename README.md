@@ -1,7 +1,3 @@
-Below is a detailed, professional introduction you can include in your release notes. It outlines the vision, features, and download instructions for WiFiSentinel in an attractive, unique style:
-
----
-
 # Introducing WiFiSentinel – Your Ultimate Wi-Fi Security Auditor 📶
 
 Welcome to **WiFiSentinel**, the all-in-one desktop application designed to keep your Wi-Fi network secure, optimized, and always under your control. In today's connected world, monitoring your network's performance and security is more important than ever, and WiFiSentinel is here to help.
@@ -40,7 +36,3 @@ Ready to take control of your Wi-Fi network? Download the latest **WiFiSentinel 
 **WiFiSentinel** is your first step towards smarter, safer networking. Download now, and experience the convenience of a professional-grade Wi-Fi auditor right at your fingertips.
 
 *Developed by [Tharindu Chanka]([https://tharindu.me](https://tharindu714.github.io/tharinduc.me/)) | © 2025 All Rights Reserved*
-
----
-
-Feel free to adjust any parts of this introduction to better match your style or additional features. Enjoy your release, and let WiFiSentinel empower your network management!

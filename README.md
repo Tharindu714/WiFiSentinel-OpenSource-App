@@ -20,9 +20,10 @@ Ready to take control of your Wi-Fi network? Download the latest **WiFiSentinel 
 
 ### How to Download:
 1. **Visit the Release Page:** Click on the **Setup File** attached in the release section.
-2. **Download the Setup:** Save the `WiFiSentinel.exe` file to your computer.
-3. **Run the Installer:** Double-click the setup file and follow the on-screen instructions to install WiFiSentinel on your system.
-4. **Launch the Application:** Once installed, open WiFiSentinel to begin monitoring your network with a modern, intuitive interface.
+2. **Download the Setup:** Save the `WiFiSentinelInstaller.exe` file to your computer.
+3. **Run the Installer:** Right Click on the setup file and `Run as Administrator 🛡️`
+4. **Next Step:** Then follow the on-screen instructions to install WiFiSentinel on your system. (You should be _**connected to interent 📡**_ during the installation)
+5. **Launch the Application:** Once installed, open WiFiSentinel to begin monitoring your network with a modern, intuitive interface.
 
 ## Why Choose WiFiSentinel?
 
